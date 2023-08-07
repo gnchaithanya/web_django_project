@@ -1,0 +1,53 @@
+div{
+    width:5px;
+    background-color: aqua;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    border-style:ridge;
+}
+.abc{
+    width:5px;
+    background-color:purple;
+    margin-left:270px;
+    
+    border-style:dashed;
+    
+}
+#efg{
+    width:50px;
+    text-align:center;
+    background-color:pink;
+    margin-left:520px;
+    border-radius:20px;
+    border-style:double;
+    
+    }
+    #ijk{
+        
+        padding:30px 65px 20px 30px;
+        background-color:aqua;
+        margin: auto;
+    }
+    
+    .xyz{
+        width:5px;
+    background-color: aqua;
+    margin-left:810px;
+    
+    border-style:inset;
+    box-shadow: 0 0 10px black;
+    
+    }
+    .mno{
+        width:5px;
+    background-color:yellow;
+    margin-left:1090px;
+    
+    border-style:dotted;
+    
+
+    }
+        
+

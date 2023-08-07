@@ -1,0 +1,39 @@
+.main{
+			
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-gap: 100px;
+    height: 200px;
+
+    
+}
+#child{
+    
+    
+    border: 2px solid none;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:darkgreen;
+    box-shadow: 0 0 20px aqua;
+    width: 100px;
+    height: 200px;
+}
+header{
+    color: ghostwhite;
+    text-align: center;
+    font-size: 20px;
+
+}
+h1{
+    color: ghostwhite;
+    text-align: center;
+}
+h3{
+    color: ghostwhite;
+    text-align: center;
+}
+h2{
+    color: ghostwhite;
+    text-align: center;
+}

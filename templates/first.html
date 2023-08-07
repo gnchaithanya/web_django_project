@@ -1,0 +1,41 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/c1.css' %}">
+</head>
+<body>
+    
+    <fieldset >
+        
+        <div>
+            <img src="{% static 'images/dog.png' %}" id="xyz">
+            <a href="" id="abc">Home</a>
+            <a href="" id="mno">About Us</a>
+            <a href="" class="mno">Our servvice</a>
+            <a href="" class="mno">Contact</a>
+            <button id="chaithu">Find Your Pets</button>
+        
+        <h1>Welcome To Find your pets</h1>
+        <p>Welcome to DOG& CAT,Hope you will find your<br> all solutions through this</p>
+        <table>
+            <tr>Name</tr>
+            <td><input type="text" placeholder="e.g.Josep"></td></table>
+            <table>
+            <tr>Date of Birth</tr>
+            <td><input type="date" placeholder="DD/MM/YYYY"></td></table>
+            <table>
+                <tr>Email Address</tr>
+                <td><input type="email" placeholder="email@email.com"></td></table>
+                <table>
+                    <tr>Password</tr>
+                    <td><input type="password"  placeholder="minimum 8 characters" minlength="8"></td></table>
+                    <table><tr><td><input type="checkbox" >I accept privacy,policy $ Terms & Conditions</td></tr></table><br>
+                    <button id="hij"> Signup</button>Are you remember ? sign in
+                </div>
+            </fieldset>
+</body>
+</html>

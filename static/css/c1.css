@@ -1,0 +1,58 @@
+#abc{
+	text-decoration: none;
+margin-left: 600px;
+padding: 5px;
+font-size: 25px;
+color: white;
+}
+#mno{
+	text-decoration: none;
+	padding: 5px;
+	font-size: 25px;
+	color: white;
+}
+.mno{
+	text-decoration: none;
+	padding: 5px;
+	font-size: 25px;
+	color: white;
+}
+#xyz{
+	margin-top: 0;
+	width: 100px;
+	height: 100px;
+}
+input{
+	border: 2px solid aquamarine;
+	padding: 5px 100px 5px 5px;
+
+
+}
+#hij{
+	background-color:lightblue;
+	padding:10px 25px;
+}
+body{
+	background-color:blanchedalmond;
+}
+fieldset{
+  background: url(../images/child.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+#jkl{
+	color: lightblue;
+}
+#chaithu{
+	padding: 10px 25px;
+	border-color: aqua;
+	border-radius: 10px;
+}
+#zyx{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+

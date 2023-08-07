@@ -1,0 +1,15 @@
+body{
+    background-image:url(../images/tajmahal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+fieldset{
+    width:200px;
+    margin-left:500px;
+    border-radius: 20px;
+    background:linear-gradient(to left,green,red);
+    margin-top: 200px;
+}
+input{
+    border-radius: 20px;
+}

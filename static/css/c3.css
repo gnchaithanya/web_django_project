@@ -1,0 +1,26 @@
+.main{
+			
+    padding: 40px;
+    display:grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-gap: 150px;
+}
+#xyz{
+    margin: 15px;
+    border: 2px solid aqua;
+    
+    border-radius: 10px 10px 0 0;
+}
+#abc{
+    height: 200px;
+    border-radius: 10px 10px 0 0 ;
+}
+#chaithu{
+    padding: 10px 25px;
+border-color: aqua;
+border-radius: 0 90px;
+}
+#mno{
+    
+    box-shadow: 0 0 10px white;
+}

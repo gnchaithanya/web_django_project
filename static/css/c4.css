@@ -1,0 +1,41 @@
+div{
+    background: url(../images/sea1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1300px;
+    height: 100vh;
+    margin: 0;
+    padding: 10px;
+}
+h3{
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:-150px;
+    font-size: 60px;
+    color: black;
+}
+
+button{
+    margin-left: 100px;
+    margin-top: 200px;
+    padding: 10px 25px;
+    color: ghostwhite;
+    background-color: green;
+    padding: 10px 25px;
+   border-color: aqua;
+  border-radius: 0 90px;
+}
+#a{
+  font-size: 100px;
+}
+#b{
+  font-size: 20px;
+}

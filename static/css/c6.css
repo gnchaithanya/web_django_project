@@ -1,0 +1,33 @@
+body{
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#abc{
+    background-color: aqua;
+    
+    
+}
+#xyz{
+    background-color: purple;
+}
+.abc{
+    margin-top: 30px;
+    margin-left: 1000px;
+}
+.efg{
+    margin-top: 50px;
+}
+#mno{
+    margin-top: 70px;
+}
+#chai{
+    width:800px;
+    margin-left:350px;
+    margin-right: 300px;
+    margin-top: 10px;
+}
+p{
+    color: white;
+}

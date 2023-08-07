@@ -1,0 +1,76 @@
+#parent{
+    width:600px;
+    height:600px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-left: 300px;
+    position: relative;
+    overflow: hidden;
+}
+#parent img{
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    margin: auto;
+    
+
+}
+#wrapper-1,#wrapper-2,#wrapper-3,#wrapper-4,#wrapper-5,#wrapper-6{
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+
+}
+#wrapper-1{
+    background-color: deeppink;
+    transition: all 1s linear 10s;
+}
+#wrapper-2{
+    background-color:darkred;
+    transition: all 1s linear 8s;
+}
+#wrapper-3{
+    background-color: aqua;
+    transition: all 1s linear 6s;
+}
+#wrapper-4{
+    background-color:darkgreen;
+    transition: all 1s linear 4s;
+}
+#wrapper-5{
+    background-color:purple;
+    transition: all 1s linear 2s;
+}
+#wrapper-6{
+    background-color:yellow;
+    transition: all 1s linear 0s;
+}
+#wrapper-1:hover{
+    cursor: pointer;
+    transform: translatex(100%);
+}
+#wrapper-2:hover{
+    cursor: pointer;
+    transform: translatey(100%);
+}
+#wrapper-3:hover{
+    cursor: pointer;
+    transform: translatex(-100%);
+}
+#wrapper-4:hover{
+    cursor: pointer;
+    transform: translatey(-100%);
+}
+#wrapper-5:hover{
+    cursor: pointer;
+    transform: translatex(100%);
+}
+#wrapper-6:hover{
+    cursor: pointer;
+    transform: translatey(100%);
+}
